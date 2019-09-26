@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aathoogah.dreamfirst.org/sitemap.xml
